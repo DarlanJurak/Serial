@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
-#include "rs232.h"
+#include "../include/rs232.h"
 
 #define BUF_SIZE 128
 
